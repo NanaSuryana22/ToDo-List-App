@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Animated ToDo List & Authentication App
 
-## Getting Started
+> A modern, full-stack ToDo List and Authentication web application built with **Next.js (App Router)**, **Tailwind CSS**, **Framer Motion**, and custom animated UI transitions. Designed specifically to showcase smooth client-side interactions and backend API integration for a developer portfolio.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Auth System (Login & Register):** Clean sliding UI transition between Login and Registration views.
+- **Backend API Routes:** Built-in Next.js Route Handlers (`/api/auth`, `/api/todos`) acting as a local server backend.
+- **Smooth Animations:** Integrated with **Framer Motion** for fluid list entry/exit animations.
+- **Responsive Design:** Fully optimized layout for both desktop and mobile devices.
+- **Modern Styling:** Custom CSS combined with Tailwind CSS utilizing a cohesive organic-green palette and Google Fonts (Poppins & Parisienne).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/) & Custom CSS
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Icons:** [React Icons](https://react-icons.github.io/react-icons/)
+- **Language:** TypeScript
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📱 App Preview
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 1. Login View
+*(Placeholder: Ganti path gambar di bawah dengan screenshot halaman login kamu)*
+![Login Page](./public/screenshot-login.png)
 
-## Deploy on Vercel
+### 2. Registration View
+*(Placeholder: Ganti path gambar di bawah dengan screenshot halaman register kamu)*
+![Register Page](./public/screenshot-register.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 3. ToDo List Dashboard
+*(Placeholder: Ganti path gambar di bawah dengan screenshot halaman dashboard setelah login)*
+![ToDo List Dashboard](./public/screenshot-todo.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 👨‍💻 Author
+Nana Suryana
+Fullstack Engineer
+GitHub: @nanasuryana22
+
