@@ -28,18 +28,19 @@
 
 ### 1. Login View
 *(Placeholder: Ganti path gambar di bawah dengan screenshot halaman login kamu)*
-![Login Page](./public/screenshot-login.png)
+![Login Page](./screenshot-login.png)
 
 ### 2. Registration View
 *(Placeholder: Ganti path gambar di bawah dengan screenshot halaman register kamu)*
-![Register Page](./public/screenshot-register.png)
+![Register Page](./screenshot-register.png)
 
 ### 3. ToDo List Dashboard
 *(Placeholder: Ganti path gambar di bawah dengan screenshot halaman dashboard setelah login)*
-![ToDo List Dashboard](./public/screenshot-todo.png)
+![ToDo List Dashboard](./screenshot-todo.png)
 
 ### 👨‍💻 Author
-Nana Suryana
-Fullstack Engineer
-GitHub: @nanasuryana22
+> Nana Suryana
+> Fullstack Engineer
+> GitHub: @nanasuryana22
+
 
