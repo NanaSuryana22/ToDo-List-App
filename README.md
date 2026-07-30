@@ -27,17 +27,17 @@
 ## 📱 App Preview
 
 ### 1. Login View
-![Login Page](./screenshoot-login.png)
+![Login Page](./public/screenshoot-login.png)
 
 ### 2. Registration View
-![Register Page](./screenshoot-register.png)
+![Register Page](./public/screenshoot-register.png)
 
 ### 3. ToDo List Dashboard
-![ToDo List Dashboard](./screenshoot-todo.png)
+![ToDo List Dashboard](./public/screenshoot-todo.png)
 
 ### 👨‍💻 Author
 - Nana Suryana
 - Fullstack Engineer
-- GitHub: https://github.com/@nanasuryana22
+- GitHub: https://github.com/nanasuryana22
 
 
